@@ -1,2 +1,5 @@
 # Ignore all local files
 /local/
+
+# Ignore pycache
+__pycache__
